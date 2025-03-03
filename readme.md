@@ -1,7 +1,3 @@
-<h1 align='center'>
-  Hi there, I'm Yorí 👨‍💻
-</h1>
-
 <p>
   I'm a software engineer. I have a passion for learning about software architecture, applying design patterns, and Test-Driven Development (TDD).
 </p>
